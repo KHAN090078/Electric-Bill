@@ -1,0 +1,1237 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+.row
+{
+	display: flex;
+}
+.table
+{
+	width: 99.9%;
+	height: 142vh;
+	border-top: 1px thin royalblue;
+	border-left: 1px thin royalblue;
+	border-right: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+}
+.logo
+{
+	border-right: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+}
+.heading h1
+{
+	font-family: arial;
+	font-size: 250%;
+	margin-top: 1vh;
+	margin-left: 7vw;
+	font-weight: bold;
+	color: royalblue;
+}
+.heading .url
+{
+	font-family: arial;
+	font-size: 100%;
+	margin-top: 3vh;
+	margin-left: 7vw;
+	margin-bottom: 1vh;
+	font-weight: bold;
+	color: royalblue;
+}
+.heading .gst
+{
+	font-family: arial;
+	font-size: 100%;
+	margin-top: 3vh;
+	margin-left: 54vw;
+	margin-bottom: 1vh;
+	font-weight: bold;
+	color: royalblue;
+}
+.id
+{
+	width: 30vw;
+	border-top: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.id p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: royalblue;
+	margin-left: 11vw;
+}
+.ed
+{
+	width: 8vw;
+	border-top: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.ed p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: royalblue;
+	margin-left: 2.5vw;
+}
+.bill
+{
+	width: 11.3vw;
+	border-top: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.bill p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: royalblue;
+	margin-left: 1.7vw;
+}
+.reading-date
+{
+	width: 13vw;
+	border-top: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.reading-date p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: royalblue;
+	margin-left: 2.2vw;
+}
+.issue-date
+{
+	width: 13vw;
+	border-top: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.issue-date p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: royalblue;
+	margin-left: 2.6vw;
+}
+.due-date
+{
+	width: 13vw;
+	border-top: 1px solid royalblue;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.due-date p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: red;
+	margin-left: 2.6vw;
+}
+.id1
+{
+	width: 30vw;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.id1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 11vw;
+}
+.ed1
+{
+	width: 8vw;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.ed1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 2.5vw;
+}
+.bill1
+{
+	width: 11.3vw;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.bill1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 1.7vw;
+}
+.reading-date1
+{
+	width: 13vw;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.reading-date1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 2.2vw;
+}
+.issue-date1
+{
+	width: 13vw;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.issue-date1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 2.6vw;
+}
+.due-date1
+{
+	width: 13vw;
+	border-bottom: 1px solid royalblue;
+	border-right: 1px solid royalblue;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+}
+.due-date1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 2.6vw;
+}
+.ref-no
+{
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	width: 21.9vw;
+	padding-bottom: 1vh;
+	padding-top: 1vh;
+}
+.ref-no p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: royalblue;
+	margin-left: 7vw;
+}
+.tariff
+{
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	width: 8vw;
+	padding-bottom: 1vh;
+	padding-top: 1vh;
+}
+.tariff p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: royalblue;
+	margin-left: 2vw;
+}
+.ref-no1
+{
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	width: 21.9vw;
+	padding-bottom: 1vh;
+	padding-top: 1vh;
+}
+.ref-no1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 7vw;
+}
+.tariff1
+{
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	width: 8vw;
+	padding-bottom: 1vh;
+	padding-top: 1vh;
+}
+.tariff1 p
+{
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	color: black;
+	margin-left: 2vw;
+}
+.name p
+{
+	width: 12vw;
+	color: royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+}
+.conn-date
+{
+	width: 14vw;
+	height: 5vh;
+	border: 1px solid royalblue;
+	border-top: none;
+	margin-left: 18vw;
+}
+.conn-date p
+{
+	width: 12vw;
+	margin-top: 1vh;
+	margin-left: 3.1vw;
+	color: royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+}
+.conn-date1
+{
+	width: 15.9vw;
+	height: 5vh;
+	border: 1px solid royalblue;
+	border-top: none;
+	border-left: none;
+}
+.conn-date1 p
+{
+	width: 12vw;
+	margin-top: 1vh;
+	margin-left: 4vw;
+	color: black;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+}
+.web
+{
+	width: 39vw;
+	height: 10.1vh;
+	border-bottom: 1px solid royalblue;
+	margin-left: 60vw;
+	margin-top: -10.3vh;
+}
+.web p
+{
+
+	font-weight: normal;
+	font-size: 200%;
+	font-family: arial;
+	color: black;
+	margin-left: 10vw;
+}
+.name1
+{
+	width: 26.9vw;
+	padding-top: 1vh;
+	padding-bottom:1vh ;
+	padding-left: 1vw;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+	border: 1px solid royalblue;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+.feeder
+{
+	width: 10vw;
+	padding-left: 1vw;
+	padding-bottom: 1vh;
+	padding-top: 1ch;
+	border: 1px solid royalblue;
+	border-top: none;
+	margin-left: 60vw;
+	color: royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+}
+.sub
+{
+	width: 10vw;
+	padding-left: 1vw;
+	padding-bottom: 1vh;
+	padding-top: 1ch;
+	border: 1px solid royalblue;
+	border-top: none;
+	margin-left: 60vw;
+	color: royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+}
+.divison
+{
+	width: 10vw;
+	padding-left: 1vw;
+	padding-bottom: 1vh;
+	padding-top: 1ch;
+	border: 1px solid royalblue;
+	border-top: none;
+	margin-left: 60vw;
+	color: royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+}
+.previous
+{
+	width: 8vw;
+	padding-top: 2.2vh;
+	padding-left: 3vh;
+	padding-bottom: 1vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.present
+{
+	width: 8vw;
+	padding-top: 2.2vh;
+	padding-bottom: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.mf
+{
+	width: 3vw;
+	padding-top: 2.2vh;
+	padding-bottom: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.unit
+{
+	width: 5vw;
+	padding-top: 2.2vh;
+	padding-bottom: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.total-unit
+{
+	width: 12vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	padding-left: 6vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.total-cost
+{
+	width: 13vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	padding-left: 6vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.bill-adj
+{
+	width: 7vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.unpaid
+{
+	width: 8vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.def-amount
+{
+	width: 10vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.instal
+{
+	width: 10vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.previous1
+{
+	width: 8vw;
+	height: 12vh;
+	padding-top: 2.2vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.pre1
+{
+	width: 8vw;
+	height: 12vh;
+	padding-top: 2.2vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.mf1
+{
+	width: 3vw;
+	height: 12vh;
+	padding-top: 2.2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.unit1
+{
+	width: 5vw;
+	height: 12vh;
+	padding-top: 2.2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.total-unit1
+{
+	width: 12vw;
+	height: 13vh;
+	padding-top: 1vh;
+	padding-left: 6vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.total-cost1
+{
+	width: 13vw;
+	height: 13vh;
+	padding-top: 1vh;
+	padding-left: 6vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.bill-adj1
+{
+	width: 7vw;
+	height: 13vh;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.unpaid1
+{
+	width: 8vw;
+	height: 13vh;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.def-amount1
+{
+	width: 10vw;
+	height: 13vh;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.instal1
+{
+	width: 10vw;
+	height: 13vh;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.meter-no
+{
+	width: 10vw;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.srvc
+{
+	width: 10vw;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.status
+{
+	width: 10vw;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.meter-rent
+{
+	width: 10vw;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.ptv-fee
+{
+	width: 6vw;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.fule-pri
+{
+	width: 13vw;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.income-tax
+{
+	width: 11vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.njs
+{
+	width: 7vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.g-s-t
+{
+	width: 7vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.elec-duty
+{
+	width: 11vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: royalblue;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.meter-no1
+{
+	width: 10vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.srvc1
+{
+	width: 10vw;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.status1
+{
+	width: 10vw;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.meter-rent1
+{
+	width: 10vw;
+	padding-top: 2vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.ptv-fee1
+{
+	width: 6vw;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.fule-pri1
+{
+	width: 13vw;
+	padding-top: 1vh;
+	padding-left: 2vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.income-tax1
+{
+	width: 11vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.njs1
+{
+	width: 7vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.g-s-t1
+{
+	width: 7vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.elec-duty1
+{
+	width: 11vw;
+	padding-top: 1vh;
+	padding-left: 3vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	color: black;
+	font-weight: normal;
+	font-size: 150%;
+	font-family: arial;
+}
+.box
+{
+	width: 25vw;
+	height: 53.5vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+}
+.month
+{
+	padding: 10px 13.5px;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	color: royalblue;
+}
+.units
+{
+	padding: 10px 10px;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	color: royalblue;
+}
+.bills
+{
+	padding: 10px 23.5px;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	color: royalblue;
+}
+.payment
+{
+	padding: 10px 30px;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	color: royalblue;
+}
+.month1
+{
+	width: 5vw;
+	padding-top: 1vh;
+	padding-left: 1vw;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+}
+.units1
+{
+	width: 3.8vw;
+	padding-top: 1vh;
+	padding-left: 1vw;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+}
+.bills1
+{
+	width: 4vw;
+	padding-top: 1vh;
+	padding-left: 1vw;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	border-bottom: none;
+}
+.payment1
+{
+	width: 8vw;
+	padding-top: 1vh;
+	padding-left: 1vw;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+.box1
+{
+	width: 35vw;
+	height: 40vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+}
+.bill2
+{
+	width: 15vw;
+	padding-top: 1vh;
+	padding-left: 1vw;
+	padding-bottom: 2vh;
+	border: 1px solid royalblue;
+	font-family: arial;
+	font-size: 150%;
+	color: royalblue;
+	font-weight: normal;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+.calculation
+{
+	width: 10vw;
+	height: 4vh;
+	margin-left:1vw;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+}
+.credit
+{
+	width: 25.5vw;
+	padding-left: 1vw;
+	padding-top: 6vh;
+	font-size: 200%;
+	font-family: arial;
+	font-weight: bold;
+}
+.box3
+{
+	width: 39vw;
+	height: 31vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	border-right: none;
+}
+.current-bill
+{
+	width: 20vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	border: 1px solid royalblue;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+	color: royalblue;
+}
+.number
+{
+	width: 20vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	border: 1px solid royalblue;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+}
+.current-bill1
+{
+	width: 20vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	border: 1px solid royalblue;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+	color: red;
+}
+.box4
+{
+	width: 34.9vw;
+	height: 13.4vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	margin-right: none;
+	margin-left: 25vw;
+	margin-top: -13.5vh;
+}
+.report
+{
+	width: 16vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	text-align: center;
+	font-size: 100%;
+	font-family: arial;
+	font-weight: bold;
+	color: red;
+}
+.no
+{
+	width: 15vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	font-size: 100%;
+	font-family: arial;
+	font-weight: bolder;
+	color: red;
+	text-align: center;
+}
+.box5
+{
+	width: 39vw;
+	height: 22.5vh;
+	border: 1px solid royalblue;
+	border-left: none;
+	border-top: none;
+	margin-right: none;
+	margin-top: -22.6vh;
+}
+.contact
+{
+	width: 20vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+	color: black;
+	margin-top: 1vh;
+}
+.contact1
+{
+	width: 20vw;
+	padding-bottom: 1vh;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+	color: black;
+	margin-top: 1vh;
+}.contact2
+{
+	width: 20vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+	color: black;
+	margin-top: 1vh;
+}.contact3
+{
+	width: 20vw;
+	padding-top: 1vh;
+	padding-bottom: 1vh;
+	font-size: 150%;
+	font-family: arial;
+	font-weight: normal;
+	color: black;
+	margin-top: 1vh;
+}
